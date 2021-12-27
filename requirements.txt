@@ -1,0 +1,8 @@
+python-binance
+tardis_dev
+pandas
+numpy
+matplotlib
+tensorflow
+scikit-learn
+scipy
